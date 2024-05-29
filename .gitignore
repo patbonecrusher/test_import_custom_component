@@ -51,4 +51,5 @@ Temporary Items
 *.icloud
 
 build
+managed_components
 # End of https://www.toptal.com/developers/gitignore/api/macos,cmake
