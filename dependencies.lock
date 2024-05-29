@@ -1,0 +1,28 @@
+dependencies:
+  espressif/led_strip:
+    component_hash: 67d2744208e9c12d8b1992d21c979396c1726e57cb7e35e7c171c515be20f8ea
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.5.3
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.2
+  joltwallet/littlefs:
+    component_hash: 7e9b6a652f846df473870263f7ecc0decdf54e6a04189af0c6a78df9d20bda0c
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.14.4
+  test_cmp:
+    component_hash: d0e13e149f68d09f796dbebdfbef1c57b7f2083a73fabd9abd1b9b68e74a5e4d
+    source:
+      git: git@github.com:patbonecrusher/test_cmp.git
+      path: .
+      type: git
+    version: 4b1b9ff363ab4692905933458725749943c9840b
+manifest_hash: 10626506b0c684907773836965964aeffcd375605ab12a0fe1a6e3ef6a09236c
+target: esp32
+version: 1.0.0
