@@ -19,10 +19,10 @@ dependencies:
   test_cmp:
     component_hash: d0e13e149f68d09f796dbebdfbef1c57b7f2083a73fabd9abd1b9b68e74a5e4d
     source:
-      git: git@github.com:patbonecrusher/test_cmp.git
+      git: https://github.com/patbonecrusher/test_cmp.git
       path: .
       type: git
     version: 4b1b9ff363ab4692905933458725749943c9840b
-manifest_hash: 10626506b0c684907773836965964aeffcd375605ab12a0fe1a6e3ef6a09236c
+manifest_hash: ef170f596b0bd17844ebe714a403800dcb8f8bb68f2f81f76ee3dc9acdf42de1
 target: esp32
 version: 1.0.0

@@ -3,7 +3,7 @@ dependencies:
   espressif/led_strip: "^2.5.3"
   joltwallet/littlefs: "==1.14.4"
   test_cmp:
-    git: git@github.com:patbonecrusher/test_cmp.git
+    git: https://github.com/patbonecrusher/test_cmp.git
     version: develop
   ## Required IDF version
   idf:
